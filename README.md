@@ -1,22 +1,22 @@
 # Connected
 
-Это небольшая игра, которой я отвечал за код в команде.
+This is a small game for which I was the team's coder.
 
-Ты управляешь космическим спутником. Задача — уворачиваться от метеоритов и чёрных дыр, а в конце — успешно пристыковаться к МКС.
+You control a space satellite. Your goal is to dodge meteorites and black holes, and ultimately, successfully dock with the ISS.
 
-**Поиграть можно тут:** [Space Connect на Itch.io](https://beliga1170.itch.io/space-connect)
+**You can play here:** [Space Connect on Itch.io](https://beliga1170.itch.io/space-connect)
 
-# Что мы реализовали:
-* Управление спутником в космосе.
-* Препятствия: летящие метеориты и чёрные дыры, которые притягивают к себе.
-* Финал уровня со стыковкой с МКС.
+# What we implemented:
+* Controlling a satellite in space.
+* Obstacles: flying meteorites and black holes that attract you.
+* The final level involves docking with the ISS.
 
-# Наш командный опыт:
-Это один из первых наших командных проектов. Мы научились:
-* Делить задачи, чтобы успеть всё вовремя.
-* Общаться, тестировать баги друг за другом и вместе доводить игру до релиза на Itch.io.
+# Our team experience:
+This is one of our first team projects. We learned:
+* Divide tasks to get everything done on time.
+* Communicate, test bugs one after another, and work together to bring the game to release on Itch.io.
 
-# На чем сделано:
-* Движок: Unity версия 2022.3.62f3
-* Язык программирования: C#
-* Платформа: WebGL
+# Made with:
+* Engine: Unity version 2022.3.62f3
+* Programming language: C#
+* Platform: WebGL
